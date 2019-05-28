@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Nalert Notification
-Plugin URI: https://github.com/sinu-jose/nalert
+Plugin URI: https://github.com/sinujose007/nalert
 Description: Used for display an alert box in frontend custom post type pages. To get started: activate the <b>Nalert plugin</b> and then go to your Nalert Settings page to set up.
 Version: 1.0.0
 Author: Sinu Jose
