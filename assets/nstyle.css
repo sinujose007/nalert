@@ -1,0 +1,21 @@
+.nalert_error {
+	color:red !important;
+}
+.nalert-block{
+	margin:5px;
+}
+.nalert_post_selection{
+	font-weight:bold;
+}
+.nalert_hdb{
+	padding : 10px;
+	background:#ffffff;
+	border:1px solid #dddddd;
+	width:50%;
+}
+.nalert_each{
+	font-size:15px;
+}
+.nalert_each_opt{
+	margin:3px;
+}
